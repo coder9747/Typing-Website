@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.b48ebf73.css",
-    "main.js": "/react-gh-pages/static/js/main.8040b2f6.js",
-    "static/js/787.c4e7f8f9.chunk.js": "/react-gh-pages/static/js/787.c4e7f8f9.chunk.js",
-    "index.html": "/react-gh-pages/index.html",
-    "main.b48ebf73.css.map": "/react-gh-pages/static/css/main.b48ebf73.css.map",
-    "main.8040b2f6.js.map": "/react-gh-pages/static/js/main.8040b2f6.js.map",
-    "787.c4e7f8f9.chunk.js.map": "/react-gh-pages/static/js/787.c4e7f8f9.chunk.js.map"
+    "main.css": "/Typing-Website/static/css/main.b48ebf73.css",
+    "main.js": "/Typing-Website/static/js/main.c8799a4e.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/Typing-Website/static/js/787.c4e7f8f9.chunk.js",
+    "index.html": "/Typing-Website/index.html",
+    "main.b48ebf73.css.map": "/Typing-Website/static/css/main.b48ebf73.css.map",
+    "main.c8799a4e.js.map": "/Typing-Website/static/js/main.c8799a4e.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/Typing-Website/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b48ebf73.css",
-    "static/js/main.8040b2f6.js"
+    "static/js/main.c8799a4e.js"
   ]
 }
